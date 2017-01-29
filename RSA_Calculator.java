@@ -1,9 +1,5 @@
 package fliang97.ca.rsa_calculator;
 
-/**
- * Created by Frank Liang on 2016-07-27.
- */
-
 import android.widget.TextView;
 
 import java.math.BigInteger;
